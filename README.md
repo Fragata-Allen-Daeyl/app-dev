@@ -7,7 +7,7 @@ My first repository
 
 ## **Favorite players in Coach Carter**
 1. Timo Cruz
-2. Jaron =="Worm"== Willis
+2. Jaron "Worm" Willis
 3. Junior Battle
 4. Jason Lyle
 5. Damien Carter
